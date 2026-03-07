@@ -1,0 +1,78 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/User/Desktop/compress/M-TECH/P_PROJECT/System-Verilog/SV_CODE/1.Structure_EXP1
+vperson_processor
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 DXx4 work 22 structure_exp2_sv_unit 0 22 EEZ^OmWjTo>:g<fl6ge4B1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 [Rhz:_EA5Z[T<?fN8TlQJ0
+Ih`flBon6<j8RIfhag=Ngn3
+Z3 !s105 structure_exp2_sv_unit
+S1
+Z4 dC:/Users/User/Desktop/compress/M-TECH/P_PROJECT/System-Verilog/SV_CODE/2.Structure_EXP2
+Z5 w1772818550
+Z6 8structure_exp2.sv
+Z7 Fstructure_exp2.sv
+L0 13
+Z8 OV;L;10.5b;63
+Z9 !s108 1772818555.000000
+Z10 !s107 structure_exp2.v|structure_exp2.sv|
+Z11 !s90 -reportprogress|300|structure_exp2.sv|structure_exp2.v|
+!i113 1
+Z12 tCvgOpt 0
+Xstructure_exp2_sv_unit
+R0
+VEEZ^OmWjTo>:g<fl6ge4B1
+r1
+!s85 0
+31
+!i10b 1
+!s100 4C^LH8NblL[h:=eC2UNIG2
+IEEZ^OmWjTo>:g<fl6ge4B1
+!i103 1
+S1
+R4
+R5
+R6
+R7
+L0 1
+R8
+R9
+R10
+R11
+!i113 1
+R12
+vtb_person_processor
+R0
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 HaTnGbod4=bB<JcNY:VF40
+I^P?zHCB;RUL7F^[[@JGPh1
+R3
+S1
+R4
+R5
+R6
+R7
+L0 27
+R8
+R9
+R10
+R11
+!i113 1
+R12

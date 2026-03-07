@@ -1,0 +1,33 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vstruct_exp_1
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1772732788
+!i10b 1
+!s100 SD[96cLS:jmEm@iH6RgnJ2
+IYClAdGUH3US2cfk3`3j6V2
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 Structure_exp1_sv_unit
+S1
+dC:/Users/User/Desktop/compress/M-TECH/P_PROJECT/System-Verilog/SV_CODE/1.Structure_EXP1
+w1772732722
+8Structure_exp1.sv
+FStructure_exp1.sv
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1772732788.000000
+!s107 Structure_exp1.sv|
+!s90 -reportprogress|300|Structure_exp1.sv|
+!i113 1
+tCvgOpt 0

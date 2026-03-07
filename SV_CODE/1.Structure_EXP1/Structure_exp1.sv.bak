@@ -1,0 +1,18 @@
+module struct_exp_1;
+	struct {int id;
+		string name;}person;
+
+	initial begin
+		//case 1
+		//person.id	= 1;
+		//person.name	= "gourav";
+		//case 2
+		person = {58,"abi"};
+		$display("the value of id is %d", person.id);
+		$display("the name is %s", person.name);
+		$display("the name is %p", person);
+		person.name = "raju";
+		$display("the name is %p", person);
+
+	end
+endmodule
