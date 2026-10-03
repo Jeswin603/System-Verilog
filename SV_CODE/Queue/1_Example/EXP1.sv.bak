@@ -1,0 +1,16 @@
+module tb;
+ 
+ string fruits[$] = '{"orange", "apple", "kiwi"};
+ int size_q;
+
+ initial begin 
+   foreach(fruits[i])
+    $display ("fruits[%0d] = %s", i ,fruits[i]);
+   
+   $display ("fruits = %p",fruits);
+   size_q = fruits.size();
+   $display ("size = %d",size_q); 
+   fruits = {};
+   $display("after deletion, fruits = %p",fruits);
+ end
+endmodule 

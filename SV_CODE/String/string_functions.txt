@@ -1,0 +1,20 @@
+Usage			sDefinition				Comments
+
+str.len()		function int len()			Returns the number of characters in the string
+
+
+str.putc()		function void putc (int i, byte c);	Replaces the ith character in the string with the given character
+
+
+str.getc()		function byte getc (int i);		Returns the ASCII code of the ith character in str
+
+
+str.tolower()		function string tolower();		Returns a string with characters in str converted to lowercase
+
+
+str.compare(s)		function int compare (string s);	Compares str and s, as in the ANSI C strcmp function
+
+str.icompare(s)		function int icompare (string s);	Compares str and s, ignoring case
+
+
+str.substr (i, j)	function string substr (int i, int j);	Returns a new string formed by the characters in position i through j of str

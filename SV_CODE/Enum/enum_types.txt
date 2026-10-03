@@ -1,0 +1,18 @@
+name		The next number will be associated with name
+name = C	Associates the constant C to name
+name[N]		Generates N named constants : name0, name1, ..., nameN-1
+name[N] = C	First named constant gets value C and subsequent ones are associated to consecutive values
+name[N:M]	First named constant will be nameN and last named constant nameM, where N and M are integers
+name[N:M] = C	First named constant, nameN will get C and subsequent ones are associated to consecutive values until nameM
+
+
+
+
+
+
+first()		function enum first();				Returns the value of the first member of the enumeration
+last()		function enum last();				Returns the value of the last member of the enumeration
+next()		function enum next (int unsigned N = 1);	Returns the Nth next enumeration value starting from the current value of the given variable
+prev()		function enum prev (int unsigned N = 1);	Returns the Nth previous enumeration value starting from the current value of the given variable
+num()		function int num();				Returns the number of elements in the given enumeration
+name()		function string name();				Returns the string representation of the given enumeration value
